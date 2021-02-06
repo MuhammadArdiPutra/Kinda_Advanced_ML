@@ -1,0 +1,19 @@
+LINK TO DATASETS USED IN KINDA_ADVANCED_ML BOOK
+
+Project 1: Logistic Regression --> 
+Created manually in the code
+
+Project 2: Potato Leaf --> 
+https://www.kaggle.com/abbasataiemontazer/potato-leaf (Original)
+https://www.kaggle.com/muhammadardiputra/potato-leaf-disease-dataset (Backup)
+
+Project 3: KMeans vs DBSCAN Clustering --> 
+Created manually in the code
+
+Project 4: Indonesian Clickbait Headlines -->
+https://data.mendeley.com/datasets/k42j7x2kpn/1 (Original)
+https://www.kaggle.com/muhammadardiputra/clickid (Backup)
+
+Project 5: Font Style Classification -->
+https://www.kaggle.com/dhruvmak/font-recognition-data (Original)
+https://www.kaggle.com/muhammadardiputra/font-recognition-data (Backup)
